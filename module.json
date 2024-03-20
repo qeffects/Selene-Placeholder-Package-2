@@ -1,0 +1,16 @@
+{
+    "name": "Selene-Placeholder-Package-2",
+    "author": {
+        "name": "qfx",
+        "github": "",
+        "email": ""
+    },
+    "license":"MIT",
+    "version": "0.0.1",
+    "description": "Another placeholder package",
+    "icon": "default", // Default or url to an image 
+    "runtime": "LUAJIT2.1", // Various options or 'any'
+    "framework": "love11.3", // Various options or 'any'
+    "dependencies": {},
+    "documentation": "", // Link to documentation about your module
+}
