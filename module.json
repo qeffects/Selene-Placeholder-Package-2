@@ -2,15 +2,17 @@
     "name": "Selene-Placeholder-Package-2",
     "author": {
         "name": "qfx",
-        "github": "",
-        "email": ""
+        "github": "https://github.com",
+        "email": "qfx@gmail.com"
     },
     "license":"MIT",
     "version": "0.0.1",
     "description": "Another placeholder package",
     "icon": "default",
-    "runtime": "LUAJIT2.1",
-    "framework": "love11.3",
+    "runtime": "Lua5.1",
+    "frameworks": ["*"],
     "dependencies": {},
-    "documentation": ""
+    "documentation": "https://testsite.net/docs",
+    "website": "https://testsite.net",
+    "github": "https://github.com"
 }
